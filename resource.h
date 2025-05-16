@@ -1,0 +1,12 @@
+#ifndef RESOURCE_H
+#define RESOURCE_H
+
+#define IDC_TIMEOUT 101
+#define IDC_TIMEOUT_LABEL 102
+
+#define ID_TRAY_CONFIG 1001
+#define ID_TRAY_EXIT 1002
+
+#define IDI_INSOMNIA 201
+
+#endif
